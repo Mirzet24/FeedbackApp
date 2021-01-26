@@ -6,7 +6,6 @@ Ein Benutzer kann einen Patienten registrieren, indem er seine Daten wie Name, G
 
 Dieser Abschnitt enthält Patienten-ID, Name, Geschlecht, Alter, Kontaktdaten, Eingangsdatum, Gebäude, Zimmernummer, Typ, Status, Arzneimittelpreis und Gesamtkosten.
 Der Administrator kann die Kaufabwicklung auch einfach durch Eingabe der Patienten-ID anzeigen. Weitere Merkmale sind Zimmerinformationen und Personaldetails.
-Durch Angabe der Gebäudenummer, des Zimmertyps, der Anzahl, der Anzahl der Betten, des Preises und des Status kann der Benutzer problemlos Zimmerinformationen hinzufügen.
 Um die Personaldaten zu verwalten, muss der Benutzer seinen Namen, sein Geschlecht, seine Position, sein Gehalt und seine Kontaktdaten eingeben.
 
 Das Design des Projekts ist sehr einfach, sodass der Benutzer bei der Arbeit keine Schwierigkeiten hat. Dieses Projekt verwendet eine externe Datei als Datenbank.
