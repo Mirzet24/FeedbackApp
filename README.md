@@ -1,7 +1,7 @@
 # Hospital-Krankenhaus
 
+Team:
+
 Mirzet Sakonjic
-
-Bogdan
-
-Fikret
+Bogdan Avasilcai
+Fikret Xhemajli
