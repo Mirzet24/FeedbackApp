@@ -1,6 +1,6 @@
-# Hospital-Krankenhaus
+# Krankenhaussoftware -Kliniksoftware
 
-Team:
+'Team:
 
 Mirzet Sakonjic
 Bogdan Avasilcai
