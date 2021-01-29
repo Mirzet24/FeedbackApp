@@ -4,6 +4,6 @@ Wir entwickeln ein Programm für Kliniken und Arztpraxen, das Patienten verwalte
 Es soll auch möglich sein neue Patienten anzulegen oder zu löschen.
 
 # IT-Team:
-Mirzet Sakonjic
-Bogdan Avasilcai
+Mirzet Sakonjic,
+Bogdan Avasilcai,
 Fikret Xhemajli
