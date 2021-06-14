@@ -1,7 +1,6 @@
-# Patientensoftware
+# FeedbackApp
 
-Wir entwickeln ein Programm für Kliniken und Arztpraxen, das Patienten verwaltet und die hinterlegten Daten zum Patienten darzustellen und auszudrucken.
-Es soll auch möglich sein neue Patienten anzulegen oder zu löschen.
+Wir entwickeln ein Programm für Studenten, das ihre Meinungen und Aussagen verwaltet und gespeicherte Feedback-Daten anzeigt und ausdruckt.
 
 # IT-Team:
 Mirzet Sakonjic,
